@@ -108,3 +108,4 @@ Handle comments (#)
 16. File as input
 Simple shell 1.0 +
 
+Authors:Daniel and Bisola
