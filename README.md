@@ -1,4 +1,4 @@
-C Simple Shell
+A C Simple Shell Project by  Bisola Bolarinwa and Bamisaye Daniel.
 
 Tasks
 0. Betty would be proud
